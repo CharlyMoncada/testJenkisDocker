@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5YQ8R5N3zjY3N0KAuhQWj0WwZjgTio5ux9Oftj7YgqYzQjIMtLfTCA9LWAn2aej5G1TOvIaDdXxVPmDU6AtIXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmoncada\\Documents\\Codes\\testJenkisDocker\\Weather\\Weather.Api\\Weather.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmoncada\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
